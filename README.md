@@ -1,4 +1,7 @@
-# 한국교원대학교 OJ 프론트 엔드 (VER 0.2)
+# D Lab OJ 프론트 엔드 (VER 0.2)
+
+## 적용자
++ Spencer Park
 
 ## 개발자
 
